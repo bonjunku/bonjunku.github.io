@@ -420,7 +420,7 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :feature/enable-whiteboards? false
- :feature/enable-journals? false
- :default-home {:page "Bonjun Ku's Blog"}
+ :journal/page nil
+ :whiteboard/page nil
+ :flashcards/page nil
  }

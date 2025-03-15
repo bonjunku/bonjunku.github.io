@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["home"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,5 +422,5 @@
  :publishing/all-pages-public? true
  :feature/enable-whiteboards? false
  :feature/enable-journals? false
- :default-home {:page "Bonjun Ku's Blog"}
+ :default-home {:page "Home"}
  }
