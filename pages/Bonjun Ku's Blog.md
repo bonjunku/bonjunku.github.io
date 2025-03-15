@@ -1,3 +1,2 @@
-- WELCOME!!
-	- Hello World!
-- TEST
+- [[ About Me ]]
+- [[ Diary ]]
