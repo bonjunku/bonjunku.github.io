@@ -423,4 +423,5 @@
  :feature/enable-whiteboards? false
  :feature/enable-journals? false
  :default-home {:page "Bonjun Ku's Blog"}
+ :feature/enable-flashcards? false
  }
